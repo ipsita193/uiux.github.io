@@ -24,3 +24,5 @@ user flow:-
 perfect flows perfect ux user flows help you to organize paths,that they will follow using your website or app.create & customize every element
 
 https://app.flowmapp.com/projects/220774/userflow/152321/
+
+A user flow means single user or person performing a task.It is ui each step.
