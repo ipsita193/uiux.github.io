@@ -42,4 +42,15 @@ A process flow can have one or many user flows.
 A user flow is user based.
 
 
+Cross browser compatibility isuues:
+(1)  Doctype Error
+(2) use modernizer instead of browser detection
+(3)Html/css validation:-jigsaw css validator,w3c html validator.
+(4) use separate stylesheet for different browsers.
+(5)layout comaptibility
+(6)add vendor specific functions:-mozilla firefox,internet explorer,opera,safari & crome.
+(7)website feature functionality
+(8)use cross-browser friendly libraries & frameworks:-web development frameworks angularjs & reactjs,trusted css libraries,bootstrap & animate,scripting library jquery.
+(9)use css reset:-to avoid any layout design issue include html5 resete.eric leyers css reset and the github based normalize css.
+
 
